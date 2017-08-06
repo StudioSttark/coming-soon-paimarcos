@@ -228,7 +228,7 @@ blockquote .small:before {
   font-weight: 500;
 }
 .table.table-striped > thead tr {
-  background-color: #111111;
+  background-color: #96855c;
 }
 .table.table-striped > thead tr > th,
 .table.table-striped > thead tr > td {
@@ -873,7 +873,7 @@ body {
   background-repeat: no-repeat;
 }
 .background .background-image.page-bg-1 {
-  background-image: url(../content/img/page-bg-1.jpg);
+  background-image: url(../content/img/page-bg-6.jpg);
 }
 .background .background-image.page-bg-1 + .layer {
   background-color: rgba(255, 255, 255, 0.4);
